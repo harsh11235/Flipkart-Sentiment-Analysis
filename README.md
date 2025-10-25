@@ -26,10 +26,8 @@ It demonstrates an end-to-end workflow — **from data scraping to visualization
 ## 📁 Files Included
 | File | Description |
 |------|--------------|
-| `Flipkart_iPhone15_Sentiment_Analysis_Final_Fixed_NLTK.ipynb` | Full Jupyter Notebook |
+| `Flipkart iPhone15 Sentiment Analysis.ipynb` | Full Jupyter Notebook |
 | `Flipkart_Sentiment_Analysis_Report.pdf` | 1-page summary report |
-| `flipkart_output/` | Folder containing CSVs and plots |
-| `Flipkart_Sentiment_Project.zip` | Compressed results for download |
 
 ## 🧑‍💻 Author
 **Harsh**  
